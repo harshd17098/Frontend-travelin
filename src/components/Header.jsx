@@ -15,7 +15,7 @@ const Header = () => {
 
 
   return (
-    <header className="bg-gradient-to-r shadow-lg from-orange-500 to-red-600">
+    <header className="bg-gradient-to-r shadow-lg " style={{backgroundColor:"#bfa75d"}}>
       <div className="lg:px-8 max-w-7xl mx-auto px-4 sm:px-6">
         <div className="flex justify-between items-center py-4">
           {/* Logo and Brand */}
